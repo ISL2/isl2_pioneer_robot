@@ -1,0 +1,3 @@
+[submodule "src/driver/rosaria"]
+	path = src/driver/rosaria
+	url = https://github.com/isl2/rosaria.git
