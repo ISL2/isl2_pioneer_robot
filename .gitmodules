@@ -7,3 +7,6 @@
 [submodule "src/utils/pioneer_description"]
 	path = src/utils/pioneer_description
 	url = https://github.com/isl2/pioneer_description
+[submodule "src/bringup/isl2_pioneer_bringup"]
+	path = src/bringup/isl2_pioneer_bringup
+	url = https://github.com/isl2/isl2_pioneer_bringup.git
