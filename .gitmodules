@@ -4,3 +4,6 @@
 [submodule "src/driver/rplidar_ros"]
 	path = src/driver/rplidar_ros
 	url = https://github.com/isl2/rplidar_ros.git
+[submodule "src/utils/pioneer_description"]
+	path = src/utils/pioneer_description
+	url = https://github.com/isl2/pioneer_description
