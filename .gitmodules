@@ -13,3 +13,6 @@
 [submodule "thirdparty/AriaCoda"]
 	path = thirdparty/AriaCoda
 	url = https://github.com/ISL2/AriaCoda
+[submodule "src/controller/pioneer_nav_stack"]
+	path = src/controller/pioneer_nav_stack
+	url = https://github.com/Tutorgaming/ros1-nav-stack-boilerplate
