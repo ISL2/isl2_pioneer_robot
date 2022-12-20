@@ -10,3 +10,6 @@
 [submodule "src/bringup/isl2_pioneer_bringup"]
 	path = src/bringup/isl2_pioneer_bringup
 	url = https://github.com/isl2/isl2_pioneer_bringup.git
+[submodule "thirdparty/AriaCoda"]
+	path = thirdparty/AriaCoda
+	url = https://github.com/ISL2/AriaCoda
