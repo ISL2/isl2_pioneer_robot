@@ -16,3 +16,6 @@
 [submodule "src/controller/pioneer_nav_stack"]
 	path = src/controller/pioneer_nav_stack
 	url = https://github.com/Tutorgaming/ros1-nav-stack-boilerplate
+[submodule "src/controller/isl2_pioneer_joy"]
+	path = src/controller/isl2_pioneer_joy
+	url = https://github.com/isl2/isl2_pioneer_joy
